@@ -11,3 +11,6 @@ Graphic Designer & Video Editor
 ## Goals
 -Learn Programming Languages.
 -Fullstack devooper.
+
+## New Update
+-Currently Learning Visual Studio.
